@@ -1,5 +1,5 @@
 # 📁 Easy Folder Encryption Script
-I was wondering on how to make file on my [Raspberry Pi](https://www.raspberrypi.org/) encrypted and I ended up making a script that did it for me.
+I was wondering on how to make file on my [Raspberry Pi](https://www.raspberrypi.org/) encrypted and I ended up making a script that did it for me.             
 It's based on [ecryptfs](http://ecryptfs.org/) filesystem for linux with aes cipher.
 
 ## How this script works?
