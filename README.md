@@ -29,7 +29,7 @@ It checks if the determinated folder is mounted, if so the script unmount it, ot
 **Finally** download the script and edit it by replacing the variable `DIR` with the path to your folder
 
     nano ~/crypt.sh
-You can also change the bytes for the encryption level at the variable `bytes` (16, 24, 32)
+You can also change the bytes for the encryption level at the variable `bytes`. Possible levels: 16, 24, 32.
 
 ---
 # How to Run
