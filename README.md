@@ -43,5 +43,5 @@ The first time the folder is unmounted so you will prompted for the encryption p
 Then, only this time, you need to answer `yes` to both questions. 
 
 **More Knowledge**        
-*The first question warn you saying that you never used the password, that is correct from the moment that's the first time you use it, and you could have typed it wrong.        
+*The first question warn you saying that you never used the password, that is correct from the moment that's the first time you use it, or you could have typed it wrong.        
 The second one ask you if you want to avoid this warning in future everytime you insert this password*
